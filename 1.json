@@ -1,0 +1,24 @@
+{
+  "name": "Jane Smith",
+  "age": 22,
+  "gender": "female",
+  "studentId": "B987654321",
+  "gpa": 3.9,
+  "isInternational": true,
+  "address": {
+    "street": "456 Elm St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA"
+  },
+  "courses": ["Biology", "Chemistry", "English"],
+  "grades": {
+    "Biology": 88,
+    "Chemistry": 92,
+    "English": 95
+  },
+  "contact": {
+    "email": "janesmith@example.com",
+    "phone": "+1 987-654-3210"
+  }
+}

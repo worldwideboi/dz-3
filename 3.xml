@@ -1,0 +1,28 @@
+<student>
+  <name>Jane Smith</name>
+  <age>22</age>
+  <gender>female</gender>
+  <studentId>B987654321</studentId>
+  <gpa>3.9</gpa>
+  <isInternational>true</isInternational>
+  <address>
+    <street>456 Elm St</street>
+    <city>Los Angeles</city>
+    <state>CA</state>
+    <country>USA</country>
+  </address>
+  <courses>
+    <course>Biology</course>
+    <course>Chemistry</course>
+    <course>English</course>
+  </courses>
+  <grades>
+    <Biology>88</Biology>
+    <Chemistry>92</Chemistry>
+    <English>95</English>
+  </grades>
+  <contact>
+    <email>janesmith@example.com</email>
+    <phone>+1 987-654-3210</phone>
+  </contact>
+</student>
